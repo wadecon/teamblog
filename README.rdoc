@@ -1,28 +1,4 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+= 와데콘 팀블로그
+== 날 읽어라
+==== 이게 뭣이여?
+와데콘 팀블로그는 와동개발자협동조합 조합원들이 자신의 지적 허영을 드러내고 싶어서 안달난 나머지 충동적으로 만들어 버린 와동개발자협동조합 웹서비스의 하위 서비스다. 팀블로그는 말 그대로 팀으로 글을 게시하는 블로그다. 하지만 우리 와데콘 팀블로그는 딱히 팀의 구성원이 특정되어 있지는 않고 그냥 써올리고 싶은 사람은 맘대로 써올릴 수 있다. 자신의 블로그 또는 유사한 곳에서 RSS 또는 그 유사한 것으로 팀블로그에 보내주면 된다. 그러면 세계인들이 친절하게 비문으로 범벅된 너의 글을 보고 비웃어 줄 것이다. 꺄르륵!
